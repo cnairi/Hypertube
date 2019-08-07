@@ -16,7 +16,7 @@ Don't hesitate to contact me if you have any question!
 ![QuickView](../master/preview/hypertube-movie-quick-view.png)
 <p align="center">Then get easily some infos about your movie</p>
 
-![MoviePage](../master/preview/hypertube-movie-quick-view.png)
+![MoviePage](../master/preview/hypertube-movie-page.png)
 <p align="center">Before launching the video player, you can even see the trailer on the movie page, as well as the full synopsis and its casting!</p>
 
 ![MoviePlayer](../master/preview/hypertube-movie-player.png)
