@@ -9,3 +9,15 @@ Don't hesitate to contact me if you have any question!
 # FEATURES
 ![Login](../master/preview/hypertube-login.png)
 <p align="center">Login using oAuth strategies</p>
+
+![Library](../master/preview/hypertube-library.png)
+<p align="center">Access our amazing movies database and add as many filters as you want in your researchh!</p>
+
+![QuickView](../master/preview/hypertube-movie-quick-view.png)
+<p align="center">Then get easily some infos about your movie</p>
+
+![MoviePage](../master/preview/hypertube-movie-quick-view.png)
+<p align="center">Before launching the video player, you can even see the trailer on the movie page, as well as the full synopsis and its casting!</p>
+
+![MoviePlayer](../master/preview/hypertube-movie-player.png)
+<p align="center">Launch your movie, select your subtitles language and chill :)</p>
