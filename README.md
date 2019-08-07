@@ -7,5 +7,5 @@ We were a group of 3 people working 1 month and a half on it, @dcirlig, @gphilip
 Don't hesitate to contact me if you have any question!
 
 # FEATURES
-![Login](../master/Previews/hypertube-login.png)
+![Login](../master/preview/hypertube-login.png)
 <p align="center">Login using oAuth strategies</p>
